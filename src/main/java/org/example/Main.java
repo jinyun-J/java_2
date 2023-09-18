@@ -7,7 +7,8 @@ public class Main {
         // 캐럿을 강조 표시된 텍스트에 놓고 Ctrl+1을(를) 누르면
         // IntelliJ IDEA의 수정 제안을 볼 수 있습니다.
         System.out.printf("Hello and welcome!");
-
+        int a = 1;
+        String b = "수정 하였습니다.";
         // Alt+Shift+X을(를) 누르거나 여백의 녹색 화살표 버튼을 클릭하여 코드를 실행합니다.
         for (int i = 1; i <= 5; i++) {
 
